@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\New folder\\employeetaskapis\\backup with old json\\employeetaskapis\\employeetaskapis.csproj": {}
+    "C:\\fetch git\\employeetaskapis\\employeetaskapis.csproj": {}
   },
   "projects": {
-    "C:\\New folder\\employeetaskapis\\backup with old json\\employeetaskapis\\employeetaskapis.csproj": {
+    "C:\\fetch git\\employeetaskapis\\employeetaskapis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\New folder\\employeetaskapis\\backup with old json\\employeetaskapis\\employeetaskapis.csproj",
+        "projectUniqueName": "C:\\fetch git\\employeetaskapis\\employeetaskapis.csproj",
         "projectName": "employeetaskapis",
-        "projectPath": "C:\\New folder\\employeetaskapis\\backup with old json\\employeetaskapis\\employeetaskapis.csproj",
+        "projectPath": "C:\\fetch git\\employeetaskapis\\employeetaskapis.csproj",
         "packagesPath": "C:\\Users\\rasik\\.nuget\\packages\\",
-        "outputPath": "C:\\New folder\\employeetaskapis\\backup with old json\\employeetaskapis\\obj\\",
+        "outputPath": "C:\\fetch git\\employeetaskapis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rasik\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtE7WMW6wO0=",
+  "dgSpecHash": "ydC8Pj674UY=",
   "success": true,
-  "projectFilePath": "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
+  "projectFilePath": "C:\\fetch git\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rasik\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rasik\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

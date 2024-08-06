@@ -127,7 +127,7 @@ namespace employeetaskapis.Migrations
             migrationBuilder.InsertData(
                 table: "Tasks",
                 columns: new[] { "TaskId", "Description", "DueDate", "EmployeeId", "Status", "Title" },
-                values: new object[] { 1, "Task Description", new DateTime(2024, 8, 11, 22, 44, 58, 45, DateTimeKind.Local).AddTicks(9613), 1, "Open", "First Task" });
+                values: new object[] { 1, "Task Description", new DateTime(2024, 8, 13, 13, 7, 23, 66, DateTimeKind.Local).AddTicks(6559), 1, "Open", "First Task" });
 
             migrationBuilder.InsertData(
                 table: "Users",
@@ -147,7 +147,7 @@ namespace employeetaskapis.Migrations
             migrationBuilder.InsertData(
                 table: "Notes",
                 columns: new[] { "NoteId", "Content", "CreatedAt", "TaskId" },
-                values: new object[] { 1, "This is a note.", new DateTime(2024, 8, 4, 22, 44, 58, 45, DateTimeKind.Local).AddTicks(9659), 1 });
+                values: new object[] { 1, "This is a note.", new DateTime(2024, 8, 6, 13, 7, 23, 66, DateTimeKind.Local).AddTicks(6679), 1 });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Documents_TaskId",

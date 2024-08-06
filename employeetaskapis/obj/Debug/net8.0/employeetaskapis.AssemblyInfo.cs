@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("employeetaskapis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190e037b192dab8a3eb217f8f18df53c1adb2ec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e797a5baed4a7bf188d26d458e709c8a139c50a")]
 [assembly: System.Reflection.AssemblyProductAttribute("employeetaskapis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("employeetaskapis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

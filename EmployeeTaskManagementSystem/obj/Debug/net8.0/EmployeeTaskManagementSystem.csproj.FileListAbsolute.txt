@@ -32,3 +32,38 @@ C:\New folder\employeetaskapis\backup with old json\EmployeeTaskManagementSystem
 C:\New folder\employeetaskapis\backup with old json\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.pdb
 C:\New folder\employeetaskapis\backup with old json\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.genruntimeconfig.cache
 C:\New folder\employeetaskapis\backup with old json\EmployeeTaskManagementSystem\obj\Debug\net8.0\ref\EmployeeTaskManagementSystem.dll
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.staticwebassets.runtime.json
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.exe
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.deps.json
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.runtimeconfig.json
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.dll
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\EmployeeTaskManagementSystem.pdb
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\AutoMapper.dll
+C:\fetch git\EmployeeTaskManagementSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.csproj.AssemblyReference.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.AssemblyInfoInputs.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.AssemblyInfo.cs
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.RazorAssemblyInfo.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.RazorAssemblyInfo.cs
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.sourcelink.json
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeTaskManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeTaskManagementSystem.props
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeTaskManagementSystem.props
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeTaskManagementSystem.props
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\scopedcss\bundle\EmployeeTaskManagementSystem.styles.css
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeTaskManagementSystem.bundle.scp.css
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\Employee.FCBC6D84.Up2Date
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.dll
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\refint\EmployeeTaskManagementSystem.dll
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.pdb
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\EmployeeTaskManagementSystem.genruntimeconfig.cache
+C:\fetch git\EmployeeTaskManagementSystem\obj\Debug\net8.0\ref\EmployeeTaskManagementSystem.dll

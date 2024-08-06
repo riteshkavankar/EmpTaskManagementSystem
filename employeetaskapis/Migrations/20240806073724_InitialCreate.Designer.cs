@@ -12,7 +12,7 @@ using employeetaskapis.Data;
 namespace employeetaskapis.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240804171458_InitialCreate")]
+    [Migration("20240806073724_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -138,7 +138,7 @@ namespace employeetaskapis.Migrations
                         {
                             TaskId = 1,
                             Description = "Task Description",
-                            DueDate = new DateTime(2024, 8, 11, 22, 44, 58, 45, DateTimeKind.Local).AddTicks(9613),
+                            DueDate = new DateTime(2024, 8, 13, 13, 7, 23, 66, DateTimeKind.Local).AddTicks(6559),
                             EmployeeId = 1,
                             Status = "Open",
                             Title = "First Task"
@@ -174,7 +174,7 @@ namespace employeetaskapis.Migrations
                         {
                             NoteId = 1,
                             Content = "This is a note.",
-                            CreatedAt = new DateTime(2024, 8, 4, 22, 44, 58, 45, DateTimeKind.Local).AddTicks(9659),
+                            CreatedAt = new DateTime(2024, 8, 6, 13, 7, 23, 66, DateTimeKind.Local).AddTicks(6679),
                             TaskId = 1
                         });
                 });

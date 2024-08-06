@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj": {}
+    "C:\\fetch git\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj": {
+    "C:\\fetch git\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
+        "projectUniqueName": "C:\\fetch git\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
         "projectName": "EmployeeTaskManagementSystem",
-        "projectPath": "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
+        "projectPath": "C:\\fetch git\\EmployeeTaskManagementSystem\\EmployeeTaskManagementSystem.csproj",
         "packagesPath": "C:\\Users\\rasik\\.nuget\\packages\\",
-        "outputPath": "C:\\New folder\\employeetaskapis\\backup with old json\\EmployeeTaskManagementSystem\\obj\\",
+        "outputPath": "C:\\fetch git\\EmployeeTaskManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
