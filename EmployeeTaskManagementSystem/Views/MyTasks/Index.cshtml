@@ -1,0 +1,46 @@
+﻿@using EmployeeTaskManagementSystem.Models.Dto
+@model IEnumerable<TaskDto>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tasks</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>My Tasks</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Task ID</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Due Date</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var task in Model)
+                {
+                    <tr>
+                        <td>@task.TaskId</td>
+                        <td>@task.Title</td>
+                        <td>@task.Description</td>
+                        <td>@task.DueDate.ToString("yyyy-MM-dd")</td>
+                        <td>@task.Status</td>
+                        <td>
+                            <a href="@Url.Action("Index", "TaskDetails", new { id = task.TaskId })" class="btn btn-info">Details</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

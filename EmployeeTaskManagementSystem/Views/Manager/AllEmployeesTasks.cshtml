@@ -1,0 +1,50 @@
+﻿@model IEnumerable<EmployeeTaskManagementSystem.Models.Dto.EmployeeDto>
+
+@{
+    ViewData["Title"] = "All Employees Tasks";
+}
+
+<h1>All Employees Tasks</h1>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Tasks</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.Name</td>
+                    <td>@employee.Email</td>
+                    <td>
+                        @if (employee.Tasks != null && employee.Tasks.Any())
+                        {
+                            <ul>
+                                @foreach (var task in employee.Tasks)
+                                {
+                                    <li>
+                                        <strong>@task.Title</strong> - Due: @task.DueDate.ToShortDateString()
+                                    </li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p>No tasks assigned.</p>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No employees found.</p>
+}

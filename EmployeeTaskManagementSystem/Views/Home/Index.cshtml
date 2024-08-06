@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="jumbotron">
+    <h1 class="display-4">Welcome to the Task Management System</h1>
+    <p class="lead">Track your tasks, manage your team's progress, and generate reports effortlessly.</p>
+    <hr class="my-4">
+    <p>Use the navigation bar to access different sections of the application.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">My Tasks</h5>
+                <p class="card-text">View and manage your tasks.</p>
+                <a href="@Url.Action("Index", "MyTasks")" class="btn btn-primary">Go to My Tasks</a>
+            </div>
+        </div>
+    </div>
+
+    @if (User.IsInRole("Manager") || User.IsInRole("Admin"))
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Team Tasks</h5>
+                    <p class="card-text">Track tasks of your team members.</p>
+                    <a href="@Url.Action("Index", "Manager")" class="btn btn-primary">Go to Team Tasks</a>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reports</h5>
+                    <p class="card-text">Generate and view reports.</p>
+                    <a href="@Url.Action("Report", "Admin")" class="btn btn-primary">View Reports</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

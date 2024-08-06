@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Manager Dashboard";
+}
+
+<div class="jumbotron">
+    <h1 class="display-4">Manager Dashboard</h1>
+    <p class="lead">Manage tasks, assign them to employees, and track progress across your team.</p>
+    <hr class="my-4">
+    <p>Use the buttons below to assign tasks or view tasks for all employees.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Assign Task</h5>
+                <p class="card-text">Assign tasks to your team members.</p>
+                <a href="@Url.Action("AssignTask", "Manager")" class="btn btn-primary btn-block">Assign Task</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">All Employees' Tasks</h5>
+                <p class="card-text">View and manage tasks for all employees.</p>
+                <a href="@Url.Action("AllEmployeesTasks", "Manager")" class="btn btn-primary btn-block">View All Tasks</a>
+            </div>
+        </div>
+    </div>
+</div>
